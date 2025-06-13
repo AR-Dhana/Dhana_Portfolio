@@ -4,9 +4,9 @@ export default function Header() {
       <div className="container mx-auto px-4 py-6 flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <div className="w-10 h-10 rounded-full bg-blue-600 flex items-center justify-center">
-            <span className="text-white font-bold text-xl">Y</span>
+            <span className="text-white font-bold text-xl">D</span>
           </div>
-          <h1 className="text-xl font-bold text-gray-800">Your Name</h1>
+          <h1 className="text-xl font-bold text-gray-800">Dhana</h1>
         </div>
         <div className="hidden md:flex items-center space-x-4">
           <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600">

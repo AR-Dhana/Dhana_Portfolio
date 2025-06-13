@@ -12,7 +12,7 @@ export default function Navigation({ activeSection, setActiveSection }) {
   return (
     <nav className="sticky top-0 bg-white shadow-sm z-10">
       <div className="container mx-auto px-4">
-        <ul className="flex overflow-x-auto py-4 space-x-6">
+        <ul className="flex justify-center overflow-x-auto py-4 space-x-6">
           {navItems.map(item => (
             <li key={item.id}>
               <button

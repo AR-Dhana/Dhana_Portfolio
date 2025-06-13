@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-10 md:mb-0">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-            Hi, I'm <span className="text-blue-600">Your Name</span>
+            Hi, I'm <span className="text-blue-600">Dhanalakshmi AR</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold text-gray-600 mb-6">
             MERN Stack Developer
