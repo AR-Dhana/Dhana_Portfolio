@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Abstract terminal window design -->
+  <rect x="8" y="8" width="32" height="32" rx="4" fill="#2563EB"/>
+  
+  <!-- Terminal header bar -->
+  <rect x="10" y="10" width="28" height="4" rx="2" fill="white" fill-opacity="0.3"/>
+  
+  <!-- Terminal dots -->
+  <circle cx="14" cy="12" r="1.5" fill="white"/>
+  <circle cx="18" cy="12" r="1.5" fill="white"/>
+  <circle cx="22" cy="12" r="1.5" fill="white"/>
+  
+  <!-- Code lines (simplified) -->
+  <rect x="14" y="20" width="20" height="2" rx="1" fill="white"/>
+  <rect x="14" y="24" width="16" height="2" rx="1" fill="white"/>
+  <rect x="14" y="28" width="12" height="2" rx="1" fill="white"/>
+  
+  <!-- Cursor -->
+  <rect x="26" y="28" width="2" height="2" rx="1" fill="#34D399"/>
+</svg>
