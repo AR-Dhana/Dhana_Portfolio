@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid D with negative space circuit -->
+  <path d="M16 12H28C32 12 36 16 36 24C36 32 32 36 28 36H16V12Z" fill="#2563EB"/>
+  
+  <!-- Tech pathway -->
+  <rect x="20" y="16" width="2" height="16" rx="1" fill="white"/>
+  <circle cx="24" cy="18" r="1.5" fill="white"/>
+  <circle cx="24" cy="24" r="1.5" fill="white"/>
+  <circle cx="24" cy="30" r="1.5" fill="white"/>
+</svg>

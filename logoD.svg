@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern D with circuit/connection motif -->
+  <path d="M16 12H28C32 12 36 16 36 24C36 32 32 36 28 36H16V12Z" stroke="#2563EB" stroke-width="4"/>
+  <path d="M20 12V36" stroke="#2563EB" stroke-width="4"/>
+  
+  <!-- Tech-inspired nodes -->
+  <circle cx="24" cy="18" r="2" fill="#2563EB"/>
+  <circle cx="24" cy="24" r="2" fill="#2563EB"/>
+  <circle cx="24" cy="30" r="2" fill="#2563EB"/>
+  
+  <!-- Subtle binary accent (optional) -->
+  <path d="M40 16L44 16" stroke="#2563EB" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 20L42 20" stroke="#2563EB" stroke-width="2" stroke-linecap="round"/>
+</svg>
