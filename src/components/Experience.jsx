@@ -6,7 +6,7 @@ export default function Experience() {
       <div className="max-w-3xl mx-auto space-y-6">
         <div className="bg-white p-6 rounded-lg shadow-md">
           <h3 className="text-xl font-semibold text-gray-700">Freelance Developer</h3>
-          <p className="text-gray-600">2020 - Present</p>
+          <p className="text-gray-600">2024 - Present</p>
           <ul className="mt-4 space-y-2 text-gray-700 list-disc pl-5">
             <li>Developed and deployed web applications for various clients</li>
             <li>Collaborated with clients to understand requirements and deliver solutions</li>
