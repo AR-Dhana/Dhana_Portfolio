@@ -11,7 +11,7 @@ export default function Projects() {
       Assets were optimized for minimal load times, and the site was made SSL-ready for secure access.`,
       technologies: ["HTML5", "CSS3", "JavaScript (ES6)", "Bootstarp", "Square Brothers", "Shared Hosting (cPanel)", "Domain registration", "DNS configuration", "Full cPanel Handling"],
       link: "https://www.gonxpromoters.in/",
-      isFreelance: true // Add this flag
+      isFreelance: true // Add flag
     },
     {
       title: "A Car Care",
@@ -24,13 +24,18 @@ export default function Projects() {
       SSL configuration was applied for secure access over HTTPS.`,
       technologies: ["HTML5", "CSS3", "JavaScript (ES6)", "PHP", "GoDaddy", "Shared Hosting (cPanel)", "Domain registration", "DNS configuration", "Full cPanel Handling"],
       link: "https://acarcare.in/",
-      isFreelance: true // Add this flag
+      isFreelance: true 
     },
     {
-      title: "Portfolio",
-      description: "Application for managing tasks with user authentication",
-      technologies: ["React", "Firebase", "Material UI"],
-      link: "#"
+      title: "My Portfolio",
+      description: `Application for My portfolio is built using the latest front-end technologies to deliver a fast, responsive, 
+      and visually engaging experience. Leveraging the power of HTML5, CSS3, and JavaScript (ES6),
+       I’ve developed a dynamic interface with React and styled it elegantly using TailwindCSS.
+Deployed seamlessly via GitHub Pages, this site showcases not only my skills—but also my passion for clean code, performance, 
+and modern design principles.`,
+      technologies: ["HTML5", "CSS3", "JavaScript (ES6)", "React", "TailwindCSS","GitHub"],
+      link: "http://localhost:5173/Dhana_Portfolio/",
+      isFreelance: false
     }
   ];
 

@@ -1,3 +1,5 @@
+import dhanaImage from '../assets/Dhana-about-img.jpeg';
+
 export default function About() {
   return (
     <section id="about" className="py-12">
@@ -16,9 +18,9 @@ export default function About() {
                 </div> */}
                 <div className="w-full h-full flex items-center justify-center bg-gray-100">
                   <img
-                    src="Dhana-image-png2.jpeg"
+                    src={dhanaImage}
                     alt="User profile"
-                    className="w-full h-90 object-cover"
+                    className="w-full h-80 object-contain"
                     onError={(e) => {
                       e.target.style.display = 'none';
                       e.target.nextElementSibling.style.display = 'flex';

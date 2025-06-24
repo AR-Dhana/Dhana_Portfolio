@@ -1,3 +1,4 @@
+import dhanaImage from '../assets/Dhana-image-png2.jpeg';
 import { NavLink } from "react-router-dom";
 
 export default function Hero() {
@@ -33,7 +34,7 @@ export default function Hero() {
               View Projects
             </NavLink>
             <a
-              href="Dhanalakshmi-AR Resume.pdf"
+              href="Dhanalakshmi - MERN.pdf"
               download="Dhanalakshmi_AR_Resume.pdf"
               className="flex items-center gap-2 px-6 py-3 bg-gray-800 text-white rounded-lg hover:bg-blue-800"
             >
@@ -56,7 +57,7 @@ export default function Hero() {
         <div className="md:w-1/2 flex justify-center">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-blue-100 to-blue-200 overflow-hidden shadow-xl">
             <img
-              src="Dhana-image-png2.jpeg"
+              src={dhanaImage}
               alt="Dhanalakshmi"
               className="w-full h-90 object-cover"
               onError={(e) => {
