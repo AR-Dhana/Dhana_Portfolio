@@ -108,7 +108,7 @@ export default function Projects() {
     <section id="projects" className="py-18">
       <h2 className="text-3xl font-bold mb-8 text-center text-gray-800">Projects</h2>
 
-      <div className="grid w-3/6 grid-cols-1 text-center md:grid-cols-1 lg:grid-cols-1 gap-6 mx-auto">
+      <div className="grid w-auto grid-cols-1 text-center gap-6 md:grid-cols-1 md:w-3/4 md:mx-auto lg:grid-cols-1 lg:w-3/6">
         {projects.map((project, index) => (
           <div key={index} className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow relative">
             {/* Freelance Flag/Badge - shown only when isFreelance is true */}
